@@ -6,7 +6,7 @@ Aqui vai conter todas as apresentações e os dados utilizados nas aulas ministr
 
 Vamos abordar a utilização do programa Fastqc no controle de qualidade do sequenciamento.
 
-Apresentação: https://www.canva.com/design/DAFoW-V2FgM/nzr7ww5Edru5NvEWfw7kMg/view?utm_content=DAFoW-V2FgM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+[Apresentação](https://www.canva.com/design/DAFoW-V2FgM/nzr7ww5Edru5NvEWfw7kMg/view?utm_content=DAFoW-V2FgM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Filogenia
 
