@@ -12,8 +12,7 @@ Vamos abordar a utilização do programa Fastqc no controle de qualidade do sequ
 
 ## Alinhamento
 
-[Apresentação](https://docs.google.com/presentation/d/1-P3k-I9g2xBJQWyhPh_DPt5Il9EfCAYATAUKDowL2W0/edit?usp=sharing)
-
+[Apresentação](https://docs.google.com/presentation/d/1TCnMYeXbY4Rce6377Qdlpcq7mBCYw64kbkdQHgAHek4/edit?usp=sharing)
 
 ## Filogenia
 
